@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hdelalande
-- 👀 I’m interested in crypto, algorythmes and crazy projets
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with friends
+- 👀 I’m interested in crazy and innovative projets
+- 🌱 I’m currently learning PERL
+- 💞️ I’m looking to collaborate with Web designers
 
 <!---
 hdelalande/hdelalande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
