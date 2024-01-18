@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdelalande
 - 👀 I’m interested in crazy and innovative projets
-- 🌱 I’m currently learning PERL
+- 🌱 I’m currently learning Creative Web Design
 - 💞️ I’m looking to collaborate with Web designers
 
 <!---
